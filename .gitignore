@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# OS
+.DS_Store
+
+# ML models
+backend/*.pt
+backend/*.pkl
+
+# DATA (DO NOT PUSH)
+data/
+*.csv
+*.xlsx
+
+# Logs
+*.log
