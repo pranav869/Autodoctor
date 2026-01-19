@@ -19,7 +19,7 @@ AutoDoctor is a full-stack AI healthcare assistant that predicts possible diseas
 	•	Normal
 	•	Pneumonia
 	•	Image upload supported via frontend
-
+Brain and abdomen tumor predictor.
 🏥 Hospital Recommendation
 	•	Finds nearby hospitals using:
 	•	Indian hospital dataset (CSV)
